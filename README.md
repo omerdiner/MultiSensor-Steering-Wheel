@@ -21,7 +21,7 @@ Proje, aşağıdaki bileşenlerle çalışmaktadır:
 - **TTP223B Dokunma Sensörleri (12 adet)**
 - **MAX30100 Nabız Sensörü**
 - **LM35 Sıcaklık Sensörü**
-- **Direksiyon Simidi **
+- **Direksiyon Simidi**
 - **Bağlantı kabloları ve jumper setleri**
 - **Bilgisayar**
 
