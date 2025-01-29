@@ -76,3 +76,17 @@ Bu bölüm, **Arduino kodlarının yüklenmesi** ve **Python arayüzünün çal�
 4. Arduino bağlantısını kontrol edin ve seri portun doğru seçildiğinden emin olun.
 5. Program çalıştırıldığında sensörlerden alınan veriler anlık olarak ekranda görünecektir.
 6. Yanlış tutuş, yüksek sıcaklık veya nabız gibi anormal durumlar tespit edildiğinde, ekranda uyarı mesajları ve sesli bildirimler verilecektir.
+
+---
+
+## 📷 Görseller
+
+Aşağıda **GUI ekranını gösteren** görseller bulunmaktadır.
+
+### **GUI Ekranı - Görsel 1**
+
+![GUI Ekranı 1](images/1.jpg)
+
+### **GUI Ekranı - Görsel 2**
+
+![GUI Ekranı 2](images/2.jpg)
